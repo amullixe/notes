@@ -40,5 +40,5 @@ I'll show on example with [PyInstaller](https://www.pyinstaller.org/):
 
 ## License
 
-This project is licensed under the GPL - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the GPL - see the [LICENSE](LICENSE) file for details
 

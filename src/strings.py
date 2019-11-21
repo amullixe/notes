@@ -15,7 +15,10 @@
     You should have received a copy of the GNU General Public License
     along with this program.  If not, see <https://www.gnu.org/licenses/>.
 
-    Email: mivilixe@outlook.com
+    The full license agreement can be found in the following link:
+    https://github.com/evilixy/notes/blob/master/LICENSE
+
+    You can contact me via email: mivilixe@outlook.com
 """
 
 strings = {

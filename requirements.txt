@@ -6,7 +6,7 @@ isort==4.3.21
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 pefile==2019.4.18
-PyInstaller==4.0.dev0+1eadfa55f2
+PyInstaller==5.13.1
 pylint==2.4.4
 PyQt5==5.13.2
 PyQt5-sip==12.7.0
